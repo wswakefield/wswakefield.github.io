@@ -51,6 +51,23 @@ li {
     font-size: 1em;
 }
 
+a:link {
+    color: black;
+}
+
+.aside1 a:visited {
+    color: black;
+}
+
+.aside1 a:hover {
+    color: black;
+}
+
+.aside1 a:active {
+    color: red;
+} 
+
+
 @media all and (min-width: 600px) {
     .aside { flex: 1 auto; }
 }
