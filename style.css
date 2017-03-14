@@ -17,10 +17,33 @@
     background: moccasin;
 }
 
-.header {background: salmon;}
-.footer {background: lightgreen;}
-.aside1 {background: cornflowerblue;}
-.aside2 {background: plum1;}
+.header {
+    background: salmon;
+}
+
+.footer {
+    background: lightgreen;
+}
+
+.aside1 {
+    background: cornflowerblue;
+}
+
+.aside2 {
+    background: plum1;
+}
+
+h1 {  
+    font-family: Verdana, Helvetica, sans-serif;
+    font-weight: strong;
+    font-size: 2em;
+}
+
+p { 
+    font-family: Verdana, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 1em;
+}
 
 @media all and (min-width: 600px) {
     .aside { flex: 1 auto; }
