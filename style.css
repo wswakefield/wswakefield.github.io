@@ -17,10 +17,10 @@
     background: moccasin;
 }
 
-.header {background: lightcoral;}
+.header {background: salmon;}
 .footer {background: lightgreen;}
 .aside1 {background: cornflowerblue;}
-.aside2 {background: violet;}
+.aside2 {background: plum1;}
 
 @media all and (min-width: 600px) {
     .aside { flex: 1 auto; }
