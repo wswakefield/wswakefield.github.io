@@ -14,12 +14,12 @@
 
 .main {
     text-align: left;
-    background: cornflowerblue;
+    background: moccasin;
 }
 
-.header {background: coral;}
+.header {background: lightcoral;}
 .footer {background: lightgreen;}
-.aside1 {background: moccasin;}
+.aside1 {background: cornflowerblue;}
 .aside2 {background: violet;}
 
 @media all and (min-width: 600px) {
