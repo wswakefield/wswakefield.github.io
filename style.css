@@ -30,19 +30,19 @@
 }
 
 .aside2 {
-    background: plum1;
+    background: plum;
 }
 
 h1 {  
-    font-family: Verdana, Helvetica, sans-serif;
-    font-weight: strong;
-    font-size: 2em;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1em;
 }
 
 p { 
-    font-family: Verdana, Helvetica, sans-serif;
+    font-family: sans-serif;
     font-weight: normal;
-    font-size: 1em;
+    font-size: 0.75em;
 }
 
 @media all and (min-width: 600px) {
