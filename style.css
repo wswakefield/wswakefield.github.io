@@ -26,7 +26,7 @@
 }
 
 .aside1 {
-    background: cornflowerblue;
+    background: lightskyblue;
 }
 
 .aside2 {
@@ -45,7 +45,7 @@ p {
     font-size: 1em;
 }
 
-ul {
+li {
     font-family: sans-serif;
     font-weight: normal;
     font-size: 1em;
