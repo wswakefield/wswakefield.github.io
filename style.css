@@ -18,7 +18,7 @@ html, body {
 }
 
 .flex-container > * {
-    padding: 5px;
+    padding: 10px;
     flex-grow: 4;
     flex-basis: 100%;
     
@@ -26,7 +26,7 @@ html, body {
 }
 
 .main {
-    padding: 30px;
+    padding: 10px;
     text-align: left;
     background: moccasin;
     
@@ -34,7 +34,7 @@ html, body {
 }
 
 .header {
-    background: lightsalmon;
+    background: coral;
    
     
 }
@@ -45,9 +45,13 @@ footer {
 }
 
 .aside1 {
-    background: lightskyblue;
+    background-color: lightskyblue;
     text-align: left;
-    width: 1%;
+    width:5%;
+    padding-left: px;
+}
+.aside1 a {
+    font-size: 1.5em;
 }
 
 .aside2 {
@@ -56,10 +60,10 @@ footer {
 }
 
 h1 {  
-    font-family: 'Open Sans', cursive;
+    font-family: 'Open Sans', sans-serif;
     font-weight: bold;
-    letter-spacing: px;
-    font-size: 2em;
+    letter-spacing: 0px;
+    font-size: 3em;
     
 }
 
@@ -71,22 +75,23 @@ p {
 
 ul {
     font-family: 'Open Sans', sans-serif;
-    font-weight: normal;
-    font-size: 1em;
+
 }
 
 a {
     font-family: 'Open Sans', sans-serif;
     
+    
 }
 
 
-#nav {
+ul#nav {
      list-style: none;
 }
 
 a:link {
     color: black;
+    text-decoration: none;
 }
 
 .aside1 a:visited {
