@@ -1,6 +1,6 @@
 html, body {
     background-color: whitesmoke;
-    margin: 1;
+    margin: 0;
 }
 
 .flex-container {
@@ -28,13 +28,13 @@ html, body {
 .main {
     padding: 10px;
     text-align: left;
-    background-color: oldlace;
+    background-color: lightgoldenrodyellow;
     
     
 }
 
 .header {
-    background: lightsalmon;
+    background: lightcoral;
    
     
 }
@@ -62,8 +62,7 @@ footer {
 h1 {  
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
-    letter-spacing: 0px;
-    font-size: 3em;
+    font-size: 2.5em;
     
 }
 
