@@ -1,57 +1,88 @@
+html, body {
+    background-color: whitesmoke;
+    margin: 1;
+}
+
 .flex-container {
     display: -webkit-flex;
     display: flex;  
-    -webkit-flex-flow: row wrap;
-    flex-flow: row wrap;
+    -webkit-flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
     text-align: center;
+    flex-basis: auto;
+    height: 100%;
+    align-items: space-between;
+
 }
 
 .flex-container > * {
-    padding: 10px;
-    flex: 1 100%;
+    padding: 5px;
+    flex-grow: 4;
+    flex-basis: 100%;
+    
    
 }
 
 .main {
+    padding: 30px;
     text-align: left;
     background: moccasin;
-    flex-basis: fill;
+    
+    
 }
 
 .header {
     background: lightsalmon;
+   
     
 }
 
-.footer {
+footer {
     background: lightgreen;
-    height: 50px;
+    font-size: 1.3em;
 }
 
 .aside1 {
     background: lightskyblue;
+    text-align: left;
+    width: 1%;
 }
 
 .aside2 {
     background: plum;
+    width: 10%;
 }
 
 h1 {  
-    font-family: sans-serif;
+    font-family: 'Open Sans', cursive;
     font-weight: bold;
-    font-size: 1.5em;
+    letter-spacing: px;
+    font-size: 2em;
+    
 }
 
 p { 
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: normal;
     font-size: 1em;
 }
 
-li {
-    font-family: sans-serif;
+ul {
+    font-family: 'Open Sans', sans-serif;
     font-weight: normal;
     font-size: 1em;
+}
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+
+#nav {
+     list-style: none;
 }
 
 a:link {
@@ -63,7 +94,7 @@ a:link {
 }
 
 .aside1 a:hover {
-    color: black;
+    color: darkblue;
 }
 
 .aside1 a:active {
