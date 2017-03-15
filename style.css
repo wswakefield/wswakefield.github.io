@@ -4,6 +4,7 @@
     -webkit-flex-flow: row wrap;
     flex-flow: row wrap;
     text-align: center;
+    flex-basis: fill;
 }
 
 .flex-container > * {
