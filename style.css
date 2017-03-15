@@ -9,12 +9,13 @@
 .flex-container > * {
     padding: 10px;
     flex: 1 100%;
-    flex-basis: fill;
+   
 }
 
 .main {
     text-align: left;
     background: moccasin;
+    flex-basis: fill;
 }
 
 .header {
