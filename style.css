@@ -28,24 +28,24 @@ html, body {
 .main {
     padding: 10px;
     text-align: left;
-    background-color: lightgoldenrodyellow;
+    background-color: white;
     
     
 }
 
 .header {
-    background: lightcoral;
+    background: white;
    
     
 }
 
 footer {
-    background: lightgreen;
+    background: white;
     font-size: 1.3em;
 }
 
 .aside1 {
-    background-color: lightskyblue;
+    background-color: white;
     text-align: left;
     width:5%;
     padding-left: px;
