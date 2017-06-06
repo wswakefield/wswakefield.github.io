@@ -36,6 +36,7 @@ html, body {
 .header {
     background: white;
     text-align: left;
+    line-height: -10px;
    
     
 }
