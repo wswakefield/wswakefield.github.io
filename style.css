@@ -36,7 +36,13 @@ html, body {
 .header {
     background: white;
     text-align: left;
-    line-height: -10px;
+}
+.main_title {
+    line-height: 1px;
+    }
+.sub_title {
+    line-height: 1px;
+    }
    
     
 }
