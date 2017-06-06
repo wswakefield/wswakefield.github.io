@@ -1,5 +1,5 @@
 html, body {
-    background-color: whitesmoke;
+    background-color: white;
     margin: 0;
 }
 
@@ -19,7 +19,7 @@ html, body {
 
 .flex-container > * {
     padding: 10px;
-    flex-grow: 4 8;
+    flex-grow: 4;
     flex-basis: 100%;
     
    
