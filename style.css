@@ -19,7 +19,7 @@ html, body {
 
 .flex-container > * {
     padding: 10px;
-    flex-grow: 4;
+    flex-grow: 4 8;
     flex-basis: 100%;
     
    
