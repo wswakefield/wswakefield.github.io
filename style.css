@@ -50,21 +50,18 @@ html, body {
     max-height: 30%;
     padding-left: 1em;
 }
+
 .header_title {
     padding-top: 1em;
     line-height: 1em;
     border: none;
-    
-    
     }
+
 .header_sub {
     line-height: 1em;
     border: none;
     }
    
-
-}
-
 footer {
     background: white;
     font-size: 1.3em;
@@ -74,8 +71,8 @@ footer {
     background-color: lightgreen;
     text-align: left;
     max-width: 0;
-    
 }
+
 .aside1 a {
     font-size: 1.5em;
 }
@@ -83,9 +80,6 @@ footer {
 .aside2 {
    background-color: lightskyblue;
     text-align: left;
-    
-
-
 }
 
 h1 {  
@@ -118,11 +112,7 @@ td {
     border: none;
 
 }
-
-
-}
-
-    
+ 
 .nav {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.em;
