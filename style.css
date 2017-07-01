@@ -101,10 +101,15 @@ h3 {
 }
 
 th {
-    font-size: .8em; 
+    font-size: .9em; 
     text-align: center;
     padding: .5em;
 }
+
+td {
+    font-size: .8em; 
+    text-align: center;
+    padding: .5em;
 
 .nav-button { 
     padding: 38px 38px 38px 38px;
