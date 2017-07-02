@@ -19,13 +19,17 @@ html, body {
     flex-basis: auto;
     height: 100%;
     align-items: space-between;
-    padding: 12px 12px 0 12px;
+    padding: 0 12px 0 12px;
+    
+    
+    
 
 }
 
 .flex-container > * {
     flex-grow: 4;
     flex-basis: 100%;
+    
    
 }
 
@@ -33,13 +37,8 @@ html, body {
     text-align: left;
     background-color: lightgreen;
     border: none;
-    padding: 1em 1em 1em 1em;
-}
+    padding: 1em;
 
-.bio-pic {
-    width: 200px;
-    height: 200px;
-     
     
 }
 
@@ -50,18 +49,21 @@ html, body {
     max-height: 30%;
     padding-left: 1em;
 }
-
 .header_title {
     padding-top: 1em;
     line-height: 1em;
     border: none;
+    
+    
     }
-
 .header_sub {
     line-height: 1em;
     border: none;
     }
    
+    
+}
+
 footer {
     background: white;
     font-size: 1.3em;
@@ -71,8 +73,8 @@ footer {
     background-color: lightgreen;
     text-align: left;
     max-width: 0;
+    
 }
-
 .aside1 a {
     font-size: 1.5em;
 }
@@ -80,6 +82,9 @@ footer {
 .aside2 {
    background-color: lightskyblue;
     text-align: left;
+    
+
+
 }
 
 h1 {  
@@ -87,23 +92,54 @@ h1 {
     font-weight: bold;
     font-size: 2.5em;
 }
-
 h3 {  
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
-    font-size: 1.2em; 
+    font-size: 1.2em;
+    
 }
 
+
 th {
+    border: .8px solid black;
     font-size: .9em; 
     text-align: center;
     padding: .5em;
 }
 
 td {
+    border: .8px solid black;
     font-size: .8em; 
     text-align: center;
-    padding: .5em; 
+    padding: .5em;
+}
+
+.scroll-td {
+    border: 0;
+    font-size: .8em; 
+    text-align: center;
+    padding: 0;
+}
+
+.scroll-code td.scroll-td {
+    overflow: scroll;
+}
+
+.scroll-code {
+    width: 100%;
+    table-layout: fixed;
+}
+
+table {
+  border: 0;
+  table-layout: auto;
+}
+
+.nested-works {
+  border: .8px solid black;
+  min-width: 50%;
+  max-width: 100%;
+  margin: .2em;
 }
 
 .nav-button { 
@@ -112,7 +148,11 @@ td {
     border: none;
 
 }
- 
+
+
+}
+
+    
 .nav {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.em;
