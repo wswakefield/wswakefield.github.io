@@ -149,9 +149,6 @@ table {
 
 }
 
-
-}
-
     
 .nav {
     font-family: 'Open Sans', sans-serif;
@@ -160,11 +157,13 @@ table {
 }
 
 a {
-    font-family: 'Open Sans', sans-serif;
-    
-    
+    font-family: 'Open Sans', sans-serif;   
 }
 
+.bio-pic {
+    height="120px"
+    width="120px"
+}
 
 
 a:link {
