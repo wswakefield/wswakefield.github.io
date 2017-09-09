@@ -148,7 +148,6 @@ table {
     border: none;
 
 }
-
     
 .nav {
     font-family: 'Open Sans', sans-serif;
@@ -159,6 +158,11 @@ table {
 a {
     font-family: 'Open Sans', sans-serif;   
 }
+
+.underline {
+    text-decoration: underline;
+}
+
 
 .bio-pic {
     max-height: 50%;
