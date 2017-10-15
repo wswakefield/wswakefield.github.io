@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="title" content="wyatt wakefield"/>
+<meta name="description" content="links" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="/style.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+</head>
+
+<body>
+
+<div class="flex-container">
+
+  <header class="header">
+    <h1 class="header_title"><a href="index.html">wyatt wakefield</a></h1>
+    <h3 class="header_sub">links</h3>
+  </header>
+
+  <article class="main">
+    <br>  
+    <p>
+    writings by wyatt
+    visual media by wyatt
+    </p>
+  </article>
+
+  <aside class="aside aside1">
+  </aside>
+
+  <aside class="aside aside2">
+    <p class="nav">
+       <a class="nav-button" href="/biography">biography</a>
+       <br>
+      <a class="nav-button" href="/works">works</a>
+      <br>
+      <a class="nav-button" href="/contact">contact</a>
+       <br>
+      <a class="nav-button" href="/links">links</a>
+    </p>
+  </aside>
+
+  <footer class="footer">wyattwakefield[at]gmail[dot]com<br>2017</footer>
+</div>
+
+</body>
+</html>
