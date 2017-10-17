@@ -168,6 +168,10 @@ a {
     font-family: 'Open Sans', sans-serif;   
 }
 
+.no-underline a {
+    text-decoration: none;
+}
+
 a.no-underline {
     text-decoration: none;
 }
