@@ -35,7 +35,7 @@ html, body {
 
 .main {
     text-align: left;
-    background-color: lightgreen;
+    background-color: HoneyDew;
     border: none;
     padding: 1em;
 
@@ -43,7 +43,7 @@ html, body {
 }
 
 .header {
-    background: lightcoral;
+    background: Seashell;
     text-align: left;
     border: none;
     max-height: 30%;
@@ -65,7 +65,7 @@ html, body {
 }
 
 footer {
-    background: white;
+    background: LightYellow;
     font-size: .8em;
 }
 
@@ -80,7 +80,7 @@ footer {
 }
 
 .aside2 {
-   background-color: lightskyblue;
+   background-color: Azure;
    text-align: left;
 }
 
