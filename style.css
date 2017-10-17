@@ -67,8 +67,8 @@ a.header_title {
   
 
 footer {
-    background: whitesmoke;
-    font-size: .6em;
+    background: white;
+    font-size: .7em;
 }
 
 .aside1 {
@@ -149,8 +149,8 @@ a.nav-button {
    
 
 div.nav-border {
-     border: 5px solid slategrey;
-     border-radius: 5px;
+     border: 10px solid Aliceblue;
+     border-radius: 5%;
      background-color: Azure;
      padding: 10px 10px 10px 10px;
      margin: 5px 0px 5px 0px;
