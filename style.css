@@ -154,6 +154,10 @@ table {
 
 div.nav-border {
      border: 1px solid black;
+     background-color: lightskyblue;
+     padding: 10 10 10 10;
+     margin: 10 10 10 10;
+    
 }
 
 .nav {
