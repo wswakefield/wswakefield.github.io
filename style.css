@@ -86,7 +86,7 @@ footer {
 }
 
 .aside2 {
-   background-color: Azure;
+   background-color: Whitesmoke;
    text-align: left;
 }
 
@@ -153,9 +153,11 @@ a.nav-button {
    
 
 div.nav-border {
-     border: 1px solid black;
-     background-color: white;
-     padding: 20px 20px 20px 20px;
+     border: 1px solid lightgrey;
+     border-radius: 5px;
+     background-color: Azure;
+     padding: 10px 10px 10px 10px;
+     margin: 5px 0px 5px 0px;
     
 }
 
