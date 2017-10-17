@@ -149,7 +149,7 @@ table {
 .nav-button { 
     padding: 38px 38px 38px 38px;
     line-height: 98px;
-    border: 1px;
+    
 
 }
     
@@ -158,6 +158,8 @@ table {
     font-size: 1.em;
     font-weight: bold;
     padding: 0 0 0 0;
+    border: 1px;
+    
     
 }
 
