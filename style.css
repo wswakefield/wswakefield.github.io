@@ -171,24 +171,19 @@ a:visited {
     color: black;
 }
 
-.underline {
-    text-decoration: underline;
-}
-
-
 .bio-pic {
     max-height: 50%;
     max-width: 50%;
     height: 50;
-    width: 50;
- 
-    
+    width: 50;   
 }
 
+.underline a {
+     text-decoration: underline;
+}
 
 a:link {
     color: black;
-    text-decoration: underline;
 }
 
 header a:visited {
