@@ -149,7 +149,7 @@ a.nav-button {
    
 
 div.nav-border {
-     border: 2px solid lightslategrey;
+     border: 5px solid slategrey;
      border-radius: 5px;
      background-color: Azure;
      padding: 10px 10px 10px 10px;
