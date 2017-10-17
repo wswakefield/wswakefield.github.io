@@ -49,24 +49,26 @@ html, body {
     max-height: 30%;
     padding-left: 1em;
 }
+
 .header_title {
     padding-top: 1em;
     line-height: 1em;
     border: none;
-    
-    
     }
+
+.header_title a {
+    text-decoration: none;
+}
+
 .header_sub {
     line-height: 1em;
     border: none;
     }
-   
-    
-}
+  
 
 footer {
     background: LightYellow;
-    font-size: .8em;
+    font-size: .5em;
 }
 
 .aside1 {
