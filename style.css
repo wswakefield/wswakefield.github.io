@@ -149,16 +149,18 @@ table {
 .nav-button { 
     padding: 38px 38px 38px 38px;
     line-height: 98px;
-    
-
 }
-    
+   
+
+p.nav {
+     border: 1px solid black;
+}
+
 .nav {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.em;
     font-weight: bold;
     padding: 0 0 0 0;
-    border: 1px solid black;
 }
 
 a {
