@@ -157,6 +157,10 @@ a {
     font-family: 'Open Sans', sans-serif;   
 }
 
+.ink {
+  text-decoration-skip: ink;
+}
+
 a:visited {
     color: black;
 }
@@ -185,6 +189,10 @@ header a:visited {
     color: black;
 }
 
+
+header a {
+    text-decoration: none;
+}
 
 .aside1 a:visited {
     color: black;
