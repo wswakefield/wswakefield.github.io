@@ -31,7 +31,7 @@ html, body {
 
 .main {
     text-align: left;
-    background-color: HoneyDew;
+    background-color: White;
     border: none;
     padding: 1em;
 
@@ -72,7 +72,7 @@ footer {
 }
 
 .aside1 {
-    background-color: lightgreen;
+    background-color: White;
     text-align: left;
     max-width: 0;
     
@@ -90,7 +90,7 @@ footer {
 h1 {  
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
-    font-size: 2.5em;
+    font-size: 1.5em;
 }
 h3 {  
     font-family: 'Open Sans', sans-serif;
@@ -150,8 +150,8 @@ a.nav-button {
 
 div.nav-border {
      border: 2px solid lightgrey;
-     border-radius: 8px;
-     background-color: Azure;
+     border-radius: 6px;
+     background-color: White;
      padding: 10px 10px 10px 10px;
      margin: 5px 0px 5px 0px;
     
@@ -216,7 +216,7 @@ header a {
 }
 
 .aside1 a:hover {
-    color: black;
+    color: Grey;
 }
 
 .aside1 a:active {
