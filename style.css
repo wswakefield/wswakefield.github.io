@@ -74,16 +74,15 @@ footer {
 .aside1 {
     background-color: White;
     text-align: left;
-    max-width: 0;
-    
 }
 .aside1 a {
-    font-size: 1.5em;
+    
 }
 
 .aside2 {
    background-color: White;
    text-align: left;
+   max-width: 0;
 }
 
 
@@ -92,11 +91,11 @@ h1 {
     font-weight: bold;
     font-size: 1.5em;
 }
+
 h3 {  
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     font-size: 1.2em;
-    
 }
 
 
@@ -216,7 +215,7 @@ header a {
 }
 
 .aside1 a:hover {
-    color: Grey;
+    color: black;
 }
 
 .aside1 a:active {
