@@ -39,7 +39,7 @@ html, body {
 }
 
 .header {
-    background: Ghostwhite;
+    background: whitesmoke;
     text-align: left;
     border: none;
     max-height: 30%;
@@ -152,7 +152,7 @@ div.nav-border {
      border-radius: 6px;
      background-color: White;
      padding: 0px 0px 0px 0px;
-     margin: 5px 0px 5px 0px;
+     margin: 0px 0px 0px 0px;
     
 }
 
@@ -160,7 +160,7 @@ div.nav-border {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.em;
     font-weight: bold;
-    padding: 0 0 0 0;
+    padding: 38px 38px 38px 38px;
 }
 
 a {
