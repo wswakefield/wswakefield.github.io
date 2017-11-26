@@ -161,6 +161,11 @@ div.nav-border {
     font-weight: bold;
 }
 
+.banner {
+    height: 75%;
+    width: 75%;
+}
+
 a {
     font-family: 'Open Sans', sans-serif;   
 }
