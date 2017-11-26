@@ -145,13 +145,13 @@ table {
 a.nav-button { 
     padding: 38px 38px 38px 38px;
 }
-   
+
 
 div.nav-border {
-     border: 2px solid lightgrey;
-     border-radius: 6px;
+     border: 1px solid ghostwhite;
+    
      background-color: White;
-     padding: 0px 0px 0px 0px;
+     padding: 38px 38px 38px 38px;
      margin: 0px 0px 0px 0px;
     
 }
@@ -160,7 +160,6 @@ div.nav-border {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.em;
     font-weight: bold;
-    padding: 38px 38px 38px 38px;
 }
 
 a {
