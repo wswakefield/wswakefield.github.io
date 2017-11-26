@@ -44,7 +44,7 @@ html, body {
     text-align: left;
     border: none;
     max-height: 30%;
-    padding-left: 15%;
+    padding-left: 2em;
 }
 
 .header_title {
@@ -68,7 +68,7 @@ a.header_title {
   
 
 footer {
-    background: white;
+    background: whitesmoke;
     font-size: .7em;
 }
 
