@@ -39,7 +39,7 @@ html, body {
 }
 
 .header {
-    background: Seashell;
+    background: lightgrey;
     text-align: left;
     border: none;
     max-height: 30%;
@@ -82,7 +82,7 @@ footer {
 }
 
 .aside2 {
-   background-color: HoneyDew;
+   background-color: White;
    text-align: left;
 }
 
