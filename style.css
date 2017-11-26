@@ -39,7 +39,7 @@ html, body {
 }
 
 .header {
-    background: lightgrey;
+    background: Ghostwhite;
     text-align: left;
     border: none;
     max-height: 30%;
@@ -74,6 +74,7 @@ footer {
 .aside1 {
     background-color: White;
     text-align: left;
+    max-width: 260px
 }
 .aside1 a {
     
@@ -89,13 +90,13 @@ footer {
 h1 {  
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 h3 {  
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 
@@ -143,7 +144,6 @@ table {
 
 a.nav-button { 
     padding: 38px 38px 38px 38px;
-    line-height: 98px;
 }
    
 
@@ -151,7 +151,7 @@ div.nav-border {
      border: 2px solid lightgrey;
      border-radius: 6px;
      background-color: White;
-     padding: 10px 10px 10px 10px;
+     padding: 0px 0px 0px 0px;
      margin: 5px 0px 5px 0px;
     
 }
