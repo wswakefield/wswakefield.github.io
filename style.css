@@ -39,11 +39,12 @@ html, body {
 }
 
 .header {
-    background: whitesmoke;
+    border: 1px solid ghostwhite;
+    background: white;
     text-align: left;
     border: none;
     max-height: 30%;
-    padding-left: 1em;
+    padding-left: 15%;
 }
 
 .header_title {
