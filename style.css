@@ -38,9 +38,13 @@ html, body {
     
 }
 
+header {
+    background-image: url("banner3.jpg");
+    background-repeat: repeat-x;
+}
+
 .header {
     border: 1px solid ghostwhite;
-    background-image: url("banner3.jpg");
     text-align: left;
     max-height: 30%;
     padding-left: 38px;
