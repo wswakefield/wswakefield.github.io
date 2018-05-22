@@ -50,7 +50,6 @@ header {
 }
 
 div.header-div {
-  color: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
   background: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
 }
 
