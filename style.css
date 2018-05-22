@@ -138,7 +138,6 @@ table {
 }
 
 .nested-works {
-  background: #f0f0f0;
   border: .8px solid white;
   min-width: 50%;
   max-width: 100%;
@@ -147,8 +146,9 @@ table {
 }
 
 .nested-works td {
-  backgroun
+  background: #f0f0f0;
 }
+
 a.nav-button { 
     padding: 38px 38px 38px 38px;
 }
