@@ -38,7 +38,7 @@ html, body {
 }
 
 header {
-
+ background: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
 }
 
 .header {
@@ -50,7 +50,7 @@ header {
 }
 
 div.header-div {
-  background: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
+ 
 }
 
 .header_title {
