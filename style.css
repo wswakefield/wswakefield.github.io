@@ -39,17 +39,18 @@ html, body {
 }
 
 header {
-    color: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
-    background-repeat: repeat-x;
 }
 
-.header {
-    background-color: color: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
-    color: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
+header.header {
+
     border: 1px solid ghostwhite;
     text-align: left;
     max-height: 30%;
     padding-left: 38px;
+}
+
+.header-div {
+  color: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
 }
 
 .header_title {
