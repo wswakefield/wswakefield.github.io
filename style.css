@@ -101,14 +101,16 @@ h3 {
 
 
 th {
-    border: .8px solid black;
+    background: #787878;
+    border: .8px solid white;
     font-size: 1em; 
+    font-color: white;
     text-align: center;
-    padding: .5em;
+    padding: 1em;
 }
 
 td {
-    border: .8px solid black;
+    border: .8px solid white;
     font-size: .9em; 
     text-align: center;
     padding: .5em;
@@ -136,12 +138,17 @@ table {
 }
 
 .nested-works {
-  border: .8px solid black;
+  background: #f0f0f0;
+  border: .8px solid white;
   min-width: 50%;
   max-width: 100%;
   margin: .2em;
+   
 }
 
+.nested-works td {
+  backgroun
+}
 a.nav-button { 
     padding: 38px 38px 38px 38px;
 }
