@@ -39,7 +39,7 @@ html, body {
 }
 
 header {
-    background-image: url("banner3.jpg");
+    background-color: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
     background-repeat: repeat-x;
 }
 
