@@ -146,7 +146,8 @@ table {
 }
 
 .nested-works td {
-  background: #f0f0f0;
+  background: Gainsboro;
+  cell-spacing: 10px;
 }
 
 a.nav-button { 
