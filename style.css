@@ -1,5 +1,4 @@
 html, body {
-    background-color: white;
     font-family: 'Open Sans', sans-serif;
     font-weight: normal;
     font-size: 1em;
@@ -39,9 +38,10 @@ html, body {
 }
 
 header {
+     background: linear-gradient(#ffffff, #ff9999);
 }
 
-header.header {
+.header {
 
     border: 1px solid ghostwhite;
     text-align: left;
@@ -51,7 +51,7 @@ header.header {
 
 div.header-div {
   color: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
-  background-color: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
+  background: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
 }
 
 .header_title {
