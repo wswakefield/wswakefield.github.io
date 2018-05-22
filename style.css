@@ -40,7 +40,7 @@ html, body {
 
 .header {
     border: 1px solid ghostwhite;
-    background: white;
+    background-image: url("banner3.jpg");
     text-align: left;
     max-height: 30%;
     padding-left: 38px;
