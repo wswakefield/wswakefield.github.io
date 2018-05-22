@@ -49,8 +49,9 @@ header.header {
     padding-left: 38px;
 }
 
-.header-div {
+div.header-div {
   color: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
+  background-color: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
 }
 
 .header_title {
