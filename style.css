@@ -157,8 +157,7 @@ a.nav-button {
 }
 
 h2.white {
-    color: white:
-    font-color: white;
+    color: white;
 }
 
 div.nav-border {
@@ -181,7 +180,7 @@ div.contact{
     font-color: white;
 }
 
-.contact.nav-button {
+.contact.nav-border {
     color: white;
     
 }
