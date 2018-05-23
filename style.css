@@ -199,33 +199,33 @@ a {
 
 a.black:link {
     color: black;
+    text-decoration:none;
 }
 
 a.black:visited {
     color: black;
+    text-decoration:none;
 }
 
 a.black:hover {
     color: black;
+    text-decoration-skip: ink;
 }
 
 a.white:link {
     color: white;
+    text-decoration:none;
 }
 
 a.white:visited {
     color: white;
+    text-decoration:none;
 }
 
 a.white:hover {
     color: white;
+    text-decoration-skip: ink;
 }
-
-a.hov-underline:link {text-decoration:none;}
-
-a.hov-underline:visited {text-decoration:none;}
-
-a.hov-underline:hover {text-decoration-skip: ink;}
 
 
 .ink {
