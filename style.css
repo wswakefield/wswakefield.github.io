@@ -33,7 +33,7 @@ html, body {
 }
 
 header {
- background: linear-gradient(to top, #ffffff 0%, #993366 107%); /* ff9999  */
+ background: linear-gradient(to top, #ffffff 0%, #FF99CC 107%); /* other possibilities are FF99CC or ff9999 or #993366  */ 
 }
 
 .header {
