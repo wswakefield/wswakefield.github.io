@@ -33,7 +33,7 @@ html, body {
 }
 
 header {
- background: linear-gradient(to top, #ffffff 0%, #ff9999 107%);
+ background: linear-gradient(to top, #ffffff 0%, #993366 107%); /* ff9999  */
 }
 
 .header {
@@ -205,6 +205,10 @@ a.black:visited {
     color: black;
 }
 
+a.black:hover {
+    color: black;
+}
+
 a.white:link {
     color: white;
 }
@@ -217,18 +221,16 @@ a.white:hover {
     color: white;
 }
 
-a.no-underline:link {color:#ff0000;text-decoration:none;}
+a.hov-underline:link {text-decoration:none;}
 
-a.no-underline:visited {color:#0000ff;text-decoration:none;}
+a.hov-underline:visited {text-decoration:none;}
 
-a.no-underline:hover {text-decoration:underline;}
+a.hov-underline:hover {text-decoration-skip: ink;}
 
 
 .ink {
   text-decoration-skip: ink;
 }
-
-
 
 img.bio-pic {
     max-height: 50%;
@@ -239,11 +241,6 @@ img.bio-pic {
     display:block;
     margin: auto;
 }
-
-.underline a {
-     text-decoration: underline;
-}
-
 
 header a:visited {
     color: black;
