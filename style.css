@@ -200,21 +200,34 @@ a {
     font-family: 'Open Sans', sans-serif;   
 }
 
-.no-underline a {
-    text-decoration: none;
+a.black:link {
+    color: black;
 }
 
-a.no-underline {
-    text-decoration: none;
+a.black:visited {
+    color: black;
 }
+
+a.white:link {
+    color: white;
+}
+
+a.black:visited {
+    color: white;
+}
+
+a.no-underline:link {color:#ff0000;text-decoration:none;}
+
+a.no-underline:visited {color:#0000ff;text-decoration:none;}
+
+a.no-underline:hover {text-decoration:underline;}
+
 
 .ink {
   text-decoration-skip: ink;
 }
 
-a:visited {
-    color: black;
-}
+
 
 img.bio-pic {
     max-height: 50%;
@@ -230,9 +243,6 @@ img.bio-pic {
      text-decoration: underline;
 }
 
-a:link {
-    color: black;
-}
 
 header a:visited {
     color: black;
