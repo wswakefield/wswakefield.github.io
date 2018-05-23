@@ -253,17 +253,6 @@ header a {
     text-decoration: none;
 }
 
-.aside1 a:visited {
-    color: black;
-}
-
-.aside1 a:hover {
-    color: black;
-}
-
-.aside1 a:active {
-    color: black;
-} 
 
 
 @media all and (min-width: 600px) {
