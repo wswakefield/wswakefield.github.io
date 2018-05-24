@@ -169,36 +169,36 @@ div.nav-border a {
 }
 
 div.biography {
-    background: #CCFFFF;
+    background: hsl(180, 100%, 90%);
 }
 
 div.biography:hover {
-    
+    background: hsl(180, 100%, 95%);
 }
 
 div.works {
-    background: #CCCCFF;
+    background: hsl(240, 100%, 90%);
 }
 
 div.works:hover {
-    
+    background: hsl(240, 100%, 95%)
 }
 
 div.performer {
-    background: #CC99FF;
+    background: hsl(270, 100%, 80%);
 }
 
 div.performer:hover {
-    background: linear-gradient(to right, #ffffff -20%, #CC99FF 100%);
+    background: hsl(270, 100%, 85%);
 }
 
 div.contact {
-    background: #CC99CC;
+    background: hsl(300, 33%, 70%);
     color: white;
 }
 
 div.contact:hover {
-    
+    background: hsl(300, 33%, 65%);
     }
     
 .contact.nav-border {
