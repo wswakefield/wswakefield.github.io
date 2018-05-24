@@ -158,8 +158,8 @@ a.nav-button {
 
 div.nav-border {
      border: 0px solid ghostwhite;
-     padding: 38px 12px 38px 12px;
-     margin: 0px 0px 0px 0px;
+     padding: 0px 0px 0px 0px;
+     margin: 12px 12px 12px 12px;
      font-size: 1em;
 }
 
@@ -189,7 +189,7 @@ div.performer {
 }
 
 div.performer:hover {
-    background: linear-gradient(to right, #ffffff 25%, #CC99FF 100%);
+    background: linear-gradient(to right, #ffffff -20%, #CC99FF 100%);
 }
 
 div.contact {
