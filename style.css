@@ -182,7 +182,7 @@ div.works {
 }
 
 div.works:hover {
-    background: hsl(240, 100%, 92%)
+    background: hsl(240, 100%, 91%)
 }
 
 div.performer {
@@ -194,12 +194,12 @@ div.performer:hover {
 }
 
 div.contact {
-    background: hsl(300, 33%, 70%);
+    background: hsl(300, 33%, 68%);
     color: white;
 }
 
 div.contact:hover {
-    background: hsl(300, 33%, 68%);
+    background: hsl(300, 33%, 70%);
     }
     
 .contact.nav-border {
