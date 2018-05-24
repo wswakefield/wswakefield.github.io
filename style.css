@@ -26,10 +26,6 @@ html, body {
 }
 
 div.main {
-    display: -webkit-flex;
-    display: flex; 
-    flex-basis: 80%; 
-    flex-grow: 1;
     text-align: left;
     background-color: White;
     border: none;
@@ -75,25 +71,10 @@ footer {
     font-size: .7em;
 }
 
-aside {
-    background-color: White;
-    text-align: left;
-    display: -webkit-flex;
-    display: flex; 
-    flex-grow: 100;
-    flex-shrink: 1;
-    flex-basis: 260px;
-    /*or max-width: 260px*/
-}
-
 .aside1 {
     background-color: White;
     text-align: left;
-    display: -webkit-flex;
-    display: flex; 
-    flex-basis: 260px;
-    flex-grow: 100;
-    /*or max-width: 260px*/
+    max-width: 260px
 }
 .aside1 a {
     text-decoration: none;
