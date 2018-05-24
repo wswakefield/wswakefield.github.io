@@ -13,7 +13,7 @@ html, body {
     -webkit-flex-wrap: wrap;
     flex-direction: row;
     flex-wrap: wrap;
-    text-align: center;
+    text-align: left;
     flex-basis: auto;
     height: 100%;
     align-items: space-between;
@@ -26,17 +26,17 @@ html, body {
 }
 
 div.main {
+    display: -webkit-flex;
+    display: flex; 
+    flex-basis: 80%; 
     text-align: left;
     background-color: White;
     border: none;
     padding: 0 1em 0 1em;
-    display: -webkit-flex;
-    display: flex; 
-    flex-basis: 90%; 
 }
 
 header {
- background: linear-gradient(to top, #ffffff 7%, #ff9999 110%); /* other possibilities are FF99CC or ff9999 or #993366  */ 
+ background: linear-gradient(to top, #ffffff 10%, #ff9999 110%); /* other possibilities are FF99CC or ff9999 or #993366  */ 
 }
 
 .header {
@@ -79,7 +79,7 @@ footer {
     text-align: left;
     display: -webkit-flex;
     display: flex; 
-    flex-basis: 10%;
+    flex-basis: 200px;
     max-width: 100%;
     /*or max-width: 260px*/
 }
