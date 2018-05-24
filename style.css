@@ -84,6 +84,7 @@ aside {
     flex-shrink: 1;
     flex-basis: 260px;
     /*or max-width: 260px*/
+}
 
 .aside1 {
     background-color: White;
