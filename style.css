@@ -250,7 +250,7 @@ a.black:visited {
 
 a.black:hover {
     color: black;
-    text-decoration: underline;
+    text-decoration: none;
     text-decoration-skip: ink;
 }
 
