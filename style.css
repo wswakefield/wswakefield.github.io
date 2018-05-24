@@ -13,7 +13,7 @@ html, body {
     -webkit-flex-wrap: wrap;
     flex-direction: row;
     flex-wrap: wrap;
-    text-align: left;
+    text-align: center;
     flex-basis: auto;
     height: 100%;
     align-items: space-between;
@@ -29,6 +29,7 @@ div.main {
     display: -webkit-flex;
     display: flex; 
     flex-basis: 80%; 
+    flex-grow: 1;
     text-align: left;
     background-color: White;
     border: none;
@@ -79,8 +80,8 @@ footer {
     text-align: left;
     display: -webkit-flex;
     display: flex; 
-    flex-basis: 200px;
-    max-width: 100%;
+    flex-basis: 260px;
+    flex-grow: 100;
     /*or max-width: 260px*/
 }
 .aside1 a {
