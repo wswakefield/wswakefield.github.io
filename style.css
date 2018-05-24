@@ -77,7 +77,7 @@ footer {
     max-width: 260px
 }
 .aside1 a {
-    
+    text-decoration: none;
 }
 
 .aside2 {
@@ -266,7 +266,7 @@ a.white:visited {
 
 a.white:hover {
     color: white;
-    text-decoration: underline;
+    text-decoration: none;
     text-decoration-skip: ink;
 }
 
