@@ -166,6 +166,7 @@ div.nav-border {
 div.nav-border a {
     display: block;
     height: 100%;
+    text-decoration: none; 
 }
 
 div.biography {
@@ -173,7 +174,7 @@ div.biography {
 }
 
 div.biography:hover {
-    background: hsl(180, 100%, 95%);
+    background: hsl(180, 100%, 92%);
 }
 
 div.works {
@@ -181,7 +182,7 @@ div.works {
 }
 
 div.works:hover {
-    background: hsl(240, 100%, 95%)
+    background: hsl(240, 100%, 92%)
 }
 
 div.performer {
@@ -189,7 +190,7 @@ div.performer {
 }
 
 div.performer:hover {
-    background: hsl(270, 100%, 85%);
+    background: hsl(270, 100%, 82%);
 }
 
 div.contact {
@@ -198,7 +199,7 @@ div.contact {
 }
 
 div.contact:hover {
-    background: hsl(300, 33%, 65%);
+    background: hsl(300, 33%, 68%);
     }
     
 .contact.nav-border {
@@ -211,7 +212,6 @@ div.contact:hover {
     font-size: 1em;
     font-weight: bold;
 }
-
 
 
 .banner {
