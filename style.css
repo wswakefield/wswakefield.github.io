@@ -30,6 +30,7 @@ html, body {
     background-color: White;
     border: none;
     padding: 0 1em 0 1em;
+    flex-basis: 10em; 
 }
 
 header {
@@ -75,7 +76,6 @@ footer {
     background-color: White;
     text-align: left;
     max-width: 100%;
-    flex-basis: 10em; 
     /*or max-width: 260px*/
 }
 .aside1 a {
