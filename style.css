@@ -166,17 +166,36 @@ div.nav-border {
 div.biography {
     background: #CCFFFF;
 }
+
+div.biography:hover {
+    
+}
+
 div.works {
     background: #CCCCFF;
 }
+
+div.works:hover {
+    
+}
+
 div.performer {
     background: #CC99FF;
 }
-div.contact{
+
+div.performer:hover {
+    background: linear-gradient(to left, #ffffff 0%, #CC99FF 107%);
+}
+
+div.contact {
     background: #CC99CC;
     color: white;
 }
 
+div.contact:hover {
+    
+    }
+    
 .contact.nav-border {
     color: white;
     
@@ -187,6 +206,8 @@ div.contact{
     font-size: 1em;
     font-weight: bold;
 }
+
+
 
 .banner {
      display: flex;
