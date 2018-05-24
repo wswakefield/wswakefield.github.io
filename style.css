@@ -25,7 +25,7 @@ html, body {
     flex-basis: 100%;   
 }
 
-main {
+.main-text {
     text-align: left;
     background-color: White;
     border: none;
