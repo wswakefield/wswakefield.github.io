@@ -75,7 +75,7 @@ footer {
     font-size: .7em;
 }
 
-.aside {
+aside {
     background-color: White;
     text-align: left;
     display: -webkit-flex;
