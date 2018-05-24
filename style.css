@@ -25,12 +25,14 @@ html, body {
     flex-basis: 100%;   
 }
 
-.main {
+div.main {
     text-align: left;
     background-color: White;
     border: none;
     padding: 0 1em 0 1em;
-    flex-basis: 10em; 
+    display: -webkit-flex;
+    display: flex; 
+    flex-basis: 90%; 
 }
 
 header {
@@ -75,6 +77,8 @@ footer {
 .aside1 {
     background-color: White;
     text-align: left;
+    display: -webkit-flex;
+    display: flex; 
     flex-basis: 10%;
     max-width: 100%;
     /*or max-width: 260px*/
