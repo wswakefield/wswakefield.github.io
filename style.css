@@ -33,14 +33,14 @@ html, body {
 }
 
 header {
- background: linear-gradient(to top, #ffffff 0%, #ff9999 107%); /* other possibilities are FF99CC or ff9999 or #993366  */ 
+ background: linear-gradient(to top, #ffffff 0%, #ff9999 115%); /* other possibilities are FF99CC or ff9999 or #993366  */ 
 }
 
 .header {
     border: 0px solid ghostwhite;
     text-align: left;
     max-height: 30%;
-    padding-left: 38px;
+    padding-left: 12px;
 }
 
 div.header-div {
@@ -158,6 +158,7 @@ a.nav-button {
 
 div.nav-border {
      border: 0px solid ghostwhite;
+     width: 100%;
      padding: 0px 0px 0px 0px;
      margin: 12px 12px 12px 12px;
      font-size: 1em;
@@ -166,6 +167,7 @@ div.nav-border {
 div.nav-border a {
     display: block;
     height: 100%;
+    width: 100%;
     text-decoration: none; 
 }
 
