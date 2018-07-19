@@ -34,7 +34,7 @@ html, body {
 
 header {
  background: linear-gradient(to top, #ffffff 10%, #ff9999 110%); /* other possibilities are FF99CC or ff9999 or #993366  */ 
-}
+}x
 
 .header {
     border: 0px solid ghostwhite;
@@ -216,6 +216,10 @@ div.contact:hover {
     font-weight: bold;
 }
 
+.bio-text {
+    display: flex;
+    max-width: 50%;
+}
 
 .banner {
      display: flex;
