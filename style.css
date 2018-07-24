@@ -34,13 +34,13 @@ html, body {
 
 header {
  background: linear-gradient(to top, #ffffff 10%, #ff9999 110%); /* other possibilities are FF99CC or ff9999 or #993366  */ 
-}x
+}
 
 .header {
     border: 0px solid ghostwhite;
     text-align: left;
     max-height: 30%;
-    padding-left: 12px;
+    padding-left: 12px 12px 12px 12px;
 }
 
 div.header-div {
