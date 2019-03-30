@@ -230,6 +230,10 @@ a {
     font-family: 'Open Sans', sans-serif;   
 }
 
+a:visited {
+    color: black;
+}
+
 a.no-underline:link {
     color: black;
     text-decoration:none;
