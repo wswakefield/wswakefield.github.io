@@ -82,6 +82,7 @@ footer {
 }
 
 .aside1 {
+    font-size: 1.2em;
     background-color: #ffffff;
     text-align: left;
     min-width: 320px;
@@ -92,6 +93,7 @@ footer {
 }
 
 .aside2 {
+   font-size: .66em
    background-color: #24292e;
    text-align: left;
    max-width: 100%;
@@ -363,6 +365,6 @@ min-width: 320px;
   width: 100%;
   max-width: 500px;
   min-width: 320px;
-  height: auto;
+  height: 100%;
     
 }
