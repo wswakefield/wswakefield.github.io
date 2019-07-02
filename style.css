@@ -322,6 +322,8 @@ header a {
 position: relative;
 padding-bottom: 56.25%;
 padding-top: 30px; height: 0; overflow: hidden;
+max-height: 400px;
+max-width: 100%;
 }
 
 .work-pic {
@@ -334,7 +336,7 @@ padding-top: 30px; height: 0; overflow: hidden;
 position: absolute;
 top: 0;
 left: 0;
-max-width: auto;
+width: auto;
 height: auto;
 }
 
