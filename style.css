@@ -31,6 +31,7 @@ html, body {
     padding-top: 12px;
     min-width: 320px;
     max-width: 100%;
+    font-size: .75em;
 }
 
 .main-text {
@@ -50,6 +51,7 @@ header {
     text-align: left;
     max-height: 30%;
     padding-left: 12px;
+    font-size: 2.1em;
 }
 
 div.header-div {
