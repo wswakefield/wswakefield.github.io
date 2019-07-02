@@ -324,6 +324,10 @@ padding-bottom: 56.25%;
 padding-top: 30px; height: 0; overflow: hidden;
 }
 
+.work-pic {
+    max-width: 260px;
+}
+
 .video-container iframe,
 .video-container object,
 .video-container embed {
