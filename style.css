@@ -50,7 +50,6 @@ header {
     border: 0px solid ghostwhite;
     text-align: left;
     padding-left: 12px;
-    font-size: 2.1em;
 }
 
 div.header-div {
@@ -61,6 +60,7 @@ div.header-div {
     line-height: 1em;
     border: none;
     text-decoration:none;
+    font-size: 2.1em;
     }
 
 .header_title a {
@@ -73,6 +73,7 @@ a.header_title {
 .header_sub {
     line-height: 1em;
     border: none;
+    font-size: 1.4em;
     }
   
 
