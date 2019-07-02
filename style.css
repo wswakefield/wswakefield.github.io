@@ -70,13 +70,13 @@ a.header_title {
   
 
 footer {
-    background: whitesmoke;
+    background: #DCDCDC;
     font-size: .7em;
     text-align: center;
 }
 
 .aside1 {
-    background-color: White;
+    background-color: greysmoke;
     text-align: left;
     max-width: 320px
 }
@@ -85,9 +85,10 @@ footer {
 }
 
 .aside2 {
-   background-color: White;
+   background-color: greysmoke;
    text-align: left;
-   max-width: 320px;
+   max-width: 640px;
+   padding-right: 12px;
     
 }
 
