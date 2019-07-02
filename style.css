@@ -396,3 +396,7 @@ min-width: 320px;
     height: 100%;
     min-width: 320px;
 }
+
+.photo-documentation {
+    overflow: auto;
+}
