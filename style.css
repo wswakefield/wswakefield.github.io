@@ -57,7 +57,8 @@ div.header-div {
 
 .header-title-div {
     background-color: #ffffff;
-    margin 0px 12px 0px 12px;
+    width: max-content;
+    margin: 0px 12px 0px 12px;
 }
 
 .header_title {
@@ -77,8 +78,9 @@ a.header_title {
 }
 
 .header-sub-div {
-    background-color: #ffffff;
-    margin 0px 12px 0px 12px;
+    width: max-content;
+    background-color: whitesmoke;
+    margin: 0px 12px 0px 12px;
 }
 
 .header_sub {
@@ -89,7 +91,7 @@ a.header_title {
   
 
 footer {
-    background: #DCDCDC;
+    background: whitesmoke;
     font-size: .7em;
     text-align: center;
 }
