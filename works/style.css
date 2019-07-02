@@ -236,8 +236,8 @@ padding-top: 30px; height: 0; overflow: hidden;
 position: absolute;
 top: 0;
 left: 0;
-width: 50%;
-height: 50%;
+max-width: 420px;
+height: auto;
 }
 
 .responsive {
@@ -246,7 +246,7 @@ height: 50%;
 }
 
 .work-pic {
-    max-width: 320px;
+    max-width: 420px;
 }
 
 .aside1 a:active {
