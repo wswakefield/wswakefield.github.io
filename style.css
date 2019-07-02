@@ -56,9 +56,9 @@ div.header-div {
 }
 
 .header-title-div {
-    background-color: #ffffff;
+    background-color: whitesmoke;
     width: max-content;
-    margin: 0px 12px 0px 12px;
+    padding: 0px 12px 0px 12px;
 }
 
 .header_title {
@@ -80,7 +80,7 @@ a.header_title {
 .header-sub-div {
     width: max-content;
     background-color: whitesmoke;
-    margin: 0px 12px 0px 12px;
+    padding: 0px 12px 0px 12px;
 }
 
 .header_sub {
