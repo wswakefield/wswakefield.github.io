@@ -139,7 +139,6 @@ td {
 }
 
 .scroll-td {
-    font-size: 1em; 
     text-align: center;
     padding: 0;
 }
@@ -162,7 +161,6 @@ table {
   border: .8px solid white;
   min-width: 50%;
   max-width: 100%;
-  margin: .2em;
    
 }
 
