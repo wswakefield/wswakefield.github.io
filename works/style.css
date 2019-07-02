@@ -245,6 +245,10 @@ height: 50%;
   height: auto;
 }
 
+.work-pic {
+    max-width: 260px;
+}
+
 .aside1 a:active {
     color: black;
 } 
