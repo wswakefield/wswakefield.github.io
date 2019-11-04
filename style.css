@@ -62,7 +62,6 @@ div.header-div {
 }
 
 .header_title {
-    padding-top: 1em;
     line-height: 1em;
     border: none;
     text-decoration:none;
@@ -88,7 +87,7 @@ a.header_title {
     line-height: 1em;
     border: none;
     font-size: 1.4em;
-    font-weight: 600;
+    font-weight: 300;
     }
   
 
@@ -110,8 +109,8 @@ footer {
 }
 
 .aside2 {
-   font-size: .66em;
-   background-color: #24292e;
+   font-size: 1em;
+   background-color: #ffff;
    text-align: left;
    max-width: 100%;
    min-width: 320px; 
