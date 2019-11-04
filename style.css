@@ -1,5 +1,5 @@
 html, body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Times New Roman", Times, serif;
     font-weight: 300;
     font-size: 1em;
     padding: 0 0 0 0;
@@ -43,11 +43,11 @@ html, body {
 }
 
 header {
- background: linear-gradient(to top, #ffffff 10%, #ff9999 110%); /* other possibilities are FF99CC or ff9999 or #993366  */ 
+ background: white;
 }
 
 .header {
-    border: 0px solid ghostwhite;
+    border: 0px solid white;
     text-align: left;
 }
 
