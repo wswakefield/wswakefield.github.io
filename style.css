@@ -123,21 +123,21 @@ footer {
 
 
 h1 {  
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Times New Roman", Times, serif;
     font-weight: bold;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 h3 {  
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     font-size: 1em;
 }
 
 h4 {  
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Times New Roman", Times, serif;
     font-weight: 600;
-    font-size: 1em;
+    font-size: .8em;
     margin: 0 0 0 0;
 }
 
@@ -253,7 +253,7 @@ div.projects:hover {
 }
 
 .nav {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Times New Roman", Times, serif;
     font-size: 1em;
     font-weight: 600;
 }
@@ -269,7 +269,7 @@ div.projects:hover {
 }
 
 a {
-    font-family: 'Open Sans', sans-serif;   
+    font-family: "Times New Roman", Times, serif;   
 }
 
 a:visited {
