@@ -57,7 +57,7 @@ div.header-div {
 
 .header-title-div {
     background-color: #ffffff;
-    width: max-content;
+    width: min-content;
     padding: 0px 0px 0px 0px;
 }
 
@@ -78,7 +78,7 @@ a.header_title {
 }
 
 .header-sub-div {
-    width: max-content;
+    width: min-content;
     background-color: #ffffff;
     padding: 0px 0px 0px 0px;
 }
