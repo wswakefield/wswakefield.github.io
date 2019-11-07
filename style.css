@@ -72,10 +72,6 @@ div.header-div {
     text-decoration: none;
 }
 
-a.header_title {
-    text-decoration: none;
-}
-
 .header-sub-div {
     width: min-content;
     background-color: #ffffff;
@@ -266,21 +262,6 @@ div.projects:hover {
      max-width:100%;
 }
 
-a {
-    font-family: "Times New Roman", Times, serif;   
-}
-
-
-a.black:link {
-    color: black;
-    text-decoration:none;
-}
-
-a.black:visited {
-    color: black;
-    text-decoration:none;
-}
-
 a.black:hover {
     color: black;
     text-decoration: none;
@@ -314,16 +295,6 @@ img.bio-pic {
     display:block;
     margin: auto;
 }
-
-header a:visited {
-    color: black;
-}
-
-
-header a {
-    text-decoration: none;
-}
-
 
 
 @media all and (min-width: 100px) {
