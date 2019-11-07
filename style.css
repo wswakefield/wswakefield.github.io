@@ -270,6 +270,14 @@ a.blue {
     }
 
 
+a:visited {
+    color: black;
+}
+
+a.blue:visited {
+    color: blue;
+    }
+
 a.black:visited {
     color: black;
 }
