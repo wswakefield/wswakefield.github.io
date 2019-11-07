@@ -262,6 +262,14 @@ div.projects:hover {
      max-width:100%;
 }
 
+a {
+    color: blue;
+    }
+
+a.black:visited {
+    color: black;
+}
+
 a.black:hover {
     color: black;
     text-decoration: none;
