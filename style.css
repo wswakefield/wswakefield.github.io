@@ -182,7 +182,6 @@ table {
   border: .8px solid white;
   min-width: 50%;
   max-width: 100%;
-   
 }
 
 .nested-works td {
@@ -263,8 +262,13 @@ div.projects:hover {
 }
 
 a {
+    color: black;
+    }
+
+a.blue {
     color: blue;
     }
+
 
 a.black:visited {
     color: black;
