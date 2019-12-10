@@ -92,8 +92,7 @@ footer {
 
 @media only screen and (min-width: 600px) {
   footer {
-    background-color: lightblue;
-    min-height:600px;
+    min-height:100%;
   }
 }
 
