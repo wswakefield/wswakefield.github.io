@@ -205,40 +205,40 @@ div.nav-border a {
     text-decoration: none; 
 }
 
-div.info {
+div.works {
     background: hsl(180, 100%, 90%);
 }
 
-div.info:hover {
+div.works:hover {
     background: hsl(180, 100%, 92%);
 }
 
-div.works {
+div.projects {
     background: hsl(240, 100%, 90%);
 }
 
-div.works:hover {
+div.projects:hover {
     background: hsl(240, 100%, 91%)
 }
 
-div.performer {
+div.links {
     background: hsl(270, 100%, 85%);
 }
 
-div.performer:hover {
+div.links:hover {
     background: hsl(270, 100%, 87%);
 }
 
-div.projects {
+div.about {
     background: hsl(300, 33%, 68%);
     color: white;
 }
 
-div.projects:hover {
+div.about:hover {
     background: hsl(300, 33%, 70%);
     }
     
-.projects.nav-border {
+.about.nav-border {
     color: white;
     
 }
