@@ -283,8 +283,14 @@ a.black:hover {
   text-decoration: underline;
 }
 
+a.title-link:active {
+  color: black;
+}
 a.title-link:hover {
   text-decoration: none;
+}
+a.title-link:visited {
+  color: black;
 }
 
 a.black:active {
