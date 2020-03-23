@@ -380,6 +380,10 @@ min-width: 320px;
   height: auto;
 }
 
+.bio-pic {
+  max-width: 250px;
+}
+
 .responsive-video {
    height: 315px;
    max-height:315px;
