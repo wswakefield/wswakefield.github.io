@@ -325,7 +325,7 @@ a.white:hover {
 
 img.bio-pic {
     max-height: 377.6px;
-    max-width: 100%;
+    width: auto;
     border-radius: 2em;
     display:block;
     margin: auto;
@@ -377,13 +377,6 @@ min-width: 320px;
   width: 100%;
   max-width: 500px;
   min-width: 320px;
-  height: auto;
-}
-
-.bio-pic {
-  max-width: 250px;
-  width: 100%;
-  min-width: 150px;
   height: auto;
 }
 
