@@ -322,10 +322,11 @@ div.about:hover {
     max-width: 320px;
     overflow: visible;
     float: left;
+    margin-bottom: 24px; 
 }
 
 .my-portrait {
-    display: flex;
+    display: inline-flex;
     overflow: visible;
 }
 
@@ -334,7 +335,7 @@ img.bio-pic {
     width: auto;
     border-radius: 2em;
     display:block;
-    margin: auto;
+    margin: 12 0 0 0;
 }
 
 @media all and (min-width: 100px) {
