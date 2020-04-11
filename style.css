@@ -134,6 +134,7 @@ h3 {
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     font-size: 1em;
+    margin 0 0 0 0
 }
 
 h4 {  
@@ -216,21 +217,21 @@ div.nav-border a {
 }
 
 div.works {
-    background: #E5EDFC;
+    background: #D7E4FA;
     
 }
 
 div.works:hover {
-    background: hsl(180, 100%, 92%);
+    background: #D7F6FA;
     border-style: inset;
 }
 
 div.projects {
-    background: #D7E4FA;
+    background: #C0D4F8;
 }
 
 div.projects:hover {
-    background: hsl(240, 100%, 91%);
+    background:  #C8C0F8;
     border-style: inset;
 }
 
@@ -240,17 +241,17 @@ div.links {
 }
 
 div.links:hover {
-    background: hsl(270, 100%, 87%);
+    background: #BBF49C;
     border-style: inset;
 }
 
 div.about {
-    background: #9CBBF4;
+    background: #6495ED;
     color: white;
 }
 
 div.about:hover {
-    background: hsl(300, 33%, 70%);
+    background: #ED6495;
     border-style: inset;
     }
     
@@ -268,6 +269,13 @@ div.about:hover {
 .bio-text {
     display: flex;
     max-width: 320px;
+    overflow: visible;
+    float:left;
+}
+
+.my-portrait {
+    display: flex;
+    overflow: visible;
 }
 
 .banner {
