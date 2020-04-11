@@ -379,9 +379,11 @@ min-width: 320px;
 
 .responsive {
   width: 100%;
-  max-width: 500px;
-  min-width: 320px;
   height: auto;
+}
+
+.index-pic {
+  max-width: 1080px;
 }
 
 .responsive-video {
