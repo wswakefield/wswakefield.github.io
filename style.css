@@ -134,7 +134,7 @@ h3 {
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     font-size: 1em;
-    margin 0 0 0 0
+    margin: 0 0 0 0
 }
 
 h4 {  
@@ -270,7 +270,7 @@ div.about:hover {
     display: flex;
     max-width: 320px;
     overflow: visible;
-    float:left;
+    float: left;
 }
 
 .my-portrait {
