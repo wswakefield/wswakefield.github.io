@@ -104,7 +104,7 @@ footer {
     font-size: 1em;
     background-color: #ffffff;
     text-align: left;
-    min-width: 300px;
+    min-width: 244px;
     max-width: 100%;
 }
 .aside1 a {
@@ -152,11 +152,11 @@ h2.white {
 
 th {
     background: Gainsboro;
-    border: .66px solid white;
+    border: 0px solid white;
     font-size: 1em; 
     text-align: center;
-    padding: 1em;
-    font-weight: 300;
+    padding: 0.5em;
+    font-weight: 600;
 }
 
 td {
@@ -202,10 +202,10 @@ a.nav-button {
 }
 
 div.nav-border {
-     border: 0px solid ghostwhite;
+     border: 3px outset grey;
      max-width: 100%;
      padding: 0px 0px 0px 0px;
-     margin: 0px 0px 0px 0px;
+     margin: 3px 0px 0px 0px;
      font-size: 1em;
 }
 
@@ -216,36 +216,42 @@ div.nav-border a {
 }
 
 div.works {
-    background: hsl(180, 100%, 90%);
+    background: #E5EDFC;
+    
 }
 
 div.works:hover {
     background: hsl(180, 100%, 92%);
+    border-style: inset;
 }
 
 div.projects {
-    background: hsl(240, 100%, 90%);
+    background: #D7E4FA;
 }
 
 div.projects:hover {
-    background: hsl(240, 100%, 91%)
+    background: hsl(240, 100%, 91%);
+    border-style: inset;
 }
 
 div.links {
-    background: hsl(270, 100%, 85%);
+    background: #C0D4F8;
+    
 }
 
 div.links:hover {
     background: hsl(270, 100%, 87%);
+    border-style: inset;
 }
 
 div.about {
-    background: hsl(300, 33%, 68%);
+    background: #9CBBF4;
     color: white;
 }
 
 div.about:hover {
     background: hsl(300, 33%, 70%);
+    border-style: inset;
     }
     
 .about.nav-border {
