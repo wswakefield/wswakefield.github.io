@@ -85,12 +85,13 @@ div.header-div {
   
 
 footer {
-    background: whitesmoke;
+    background: white;
     font-size: .8em;
     text-align: left;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.08em;
     font-style: italic;
     margin-top: 12px;
+    margin-bottom: 12px;
 }
 
 @media only screen and (min-width: 600px) {
