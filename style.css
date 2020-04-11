@@ -124,14 +124,14 @@ h1 {
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     font-size: 1.2em;
-    font-style: italic;
 }
 
 h3 {  
     font-family: "Times New Roman", Times, serif;
     font-weight: 300;
     font-size: 1em;
-    margin: 24 24 14 0
+    margin: 24 24 14 0;
+    font-style: italic;
 }
 
 h4 {  
@@ -268,37 +268,37 @@ div.nav-border a {
 }
 
 div.works {
-    background: #E5EDFC;
+    background:#454545;
     
 }
 
 div.works:hover {
-    background: #E5FCED;
+    background: #575757;
     border-style: inset;
 }
 
 div.projects {
-    background: #D7E4FA;
+    background: #454545;
 }
 
 div.projects:hover {
-    background:  #E4FAD7;
+    background:  #575757;
     border-style: inset;
 }
 
 div.links {
-    background: #CDDDF9;
+    background: #454545;
     
 }
 
 div.links:hover {
-    background:  #CDF9DD;
+    background:  #454545;
     border-style: inset;
 }
 
 div.about {
-    background: #C0D4F8;
-    color: black;
+    background: #575757;
+    color: white;
 }
 
 div.about:hover {
