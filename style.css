@@ -257,7 +257,7 @@ div.nav-border {
      border: 3px outset grey;
      max-width: 100%;
      padding: 0px 0px 0px 0px;
-     margin: 3px 0px 0px 0px;
+     margin: 0px 0px 0px 0px;
      font-size: 1em;
 }
 
@@ -292,17 +292,17 @@ div.links {
 }
 
 div.links:hover {
-    background:  #454545;
+    background:  #575757;
     border-style: inset;
 }
 
 div.about {
-    background: #575757;
+    background: #454545;
     color: white;
 }
 
 div.about:hover {
-    background:  #D4F8C0;
+    background:  #575757;
     border-style: inset;
     }
     
