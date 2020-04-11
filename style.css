@@ -217,41 +217,41 @@ div.nav-border a {
 }
 
 div.works {
-    background: #D7E4FA;
+    background: #E5EDFC;
     
 }
 
 div.works:hover {
-    background: #D7F6FA;
+    background: #E5FCED;
     border-style: inset;
 }
 
 div.projects {
-    background: #C0D4F8;
+    background: #D7E4FA;
 }
 
 div.projects:hover {
-    background:  #C8C0F8;
+    background:  #E4FAD7;
     border-style: inset;
 }
 
 div.links {
-    background: #9CBBF4;
+    background: #CDDDF9;
     
 }
 
 div.links:hover {
-    background: #BBF49C;
+    background:  #CDF9DD;
     border-style: inset;
 }
 
 div.about {
-    background: #6495ED;
-    color: white;
+    background: #C0D4F8;
+    color: black;
 }
 
 div.about:hover {
-    background: #ED6495;
+    background:  #D4F8C0;
     border-style: inset;
     }
     
