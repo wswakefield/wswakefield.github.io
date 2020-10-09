@@ -141,6 +141,26 @@ h4 {
     margin: 0 0 0 0;
 }
 
+a.title-link:active {
+  color: black;
+}
+
+a.title-link:link {
+  color: black;
+}
+
+a.title-link:hover {
+  text-decoration: none;
+}
+
+a.title-link:hover {
+  text-decoration: none;
+}
+
+a.title-link:visited {
+  color: black;
+}
+
 a.black {
     color: black;
     }
@@ -154,18 +174,9 @@ a.black:visited {
 }
 
 a.black:link {
-  text-decoration: underline;
-}
-
-a.title-link:active {
-  color: black;
-}
-a.title-link:hover {
   text-decoration: none;
 }
-a.title-link:visited {
-  color: black;
-}
+
 
 a.black:active {
   color: black;
