@@ -288,6 +288,15 @@ div.performances:hover {
     border-style: inset;
 }
 
+div.writings {
+    background: #454545;
+}
+
+div.writings:hover {
+    background:  #575757;
+    border-style: inset;
+}
+
 div.collaborations {
     background: #454545;
 }
