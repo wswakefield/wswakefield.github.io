@@ -278,21 +278,21 @@ div.nav-border a {
     text-decoration: none; 
 }
 
-div.works {
+div.performances {
     background:#454545;
     
 }
 
-div.works:hover {
+div.performances:hover {
     background: #575757;
     border-style: inset;
 }
 
-div.projects {
+div.collaborations {
     background: #454545;
 }
 
-div.projects:hover {
+div.collaborations:hover {
     background:  #575757;
     border-style: inset;
 }
