@@ -278,12 +278,12 @@ div.nav-border a {
     text-decoration: none; 
 }
 
-div.performances {
+div.works {
     background:#454545;
     
 }
 
-div.performances:hover {
+div.works:hover {
     background: #575757;
     border-style: inset;
 }
