@@ -297,11 +297,11 @@ div.writings:hover {
     border-style: inset;
 }
 
-div.collaborations {
+div.pages {
     background: #454545;
 }
 
-div.collaborations:hover {
+div.pages:hover {
     background:  #575757;
     border-style: inset;
 }
