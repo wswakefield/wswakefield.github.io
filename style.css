@@ -401,6 +401,7 @@ min-width: 320px;
 
 .responsive {
   width: 100%;
+  max-width: 720px;
   height: auto;
 }
 
