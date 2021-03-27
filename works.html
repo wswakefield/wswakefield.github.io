@@ -12,15 +12,15 @@
 function hideA()
 {
 
-    document.getElementById("A").style.visibility="hidden";
-    document.getElementById("B").style.visibility="visible";    
+    document.getElementById("A").style.display="none";
+    document.getElementById("B").style.display="inherit";    
 
 }
 
 function hideB()
 {
-    document.getElementById("B").style.visibility="hidden";
-    document.getElementById("A").style.visibility="visible";
+    document.getElementById("B").style.display="none";
+    document.getElementById("A").style.display="inherit";
 
 }
 </script>
@@ -40,7 +40,7 @@ Media:
 <input type="radio"  name="aorb" onClick="hideB()" checked>A | 
 <input type="radio"  name="aorb" onClick="hideA()">B
 
-<table id="A" class="scroll-code" style="position: absolute; left: 10px; top: 100px;"> 
+<table id="A" class="scroll-code"> 
      <tr>
         <td class="scroll-td">
             <table class="nested-works">
@@ -219,7 +219,7 @@ Media:
     </tr>
 </table>
 
-<table id="B" class="scroll-code" style="position: absolute; left: 10px; top: 100px; visibility:hidden""> 
+<table id="B" class="scroll-code" style="display:none"> 
      <tr>
         <td class="scroll-td">
             <table class="nested-works">
