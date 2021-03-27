@@ -7,11 +7,27 @@
 <meta name="description" content="works" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="style.css">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<script language="Javascript">
+function hideA()
+{
+
+    document.getElementById("A").style.visibility="hidden";
+    document.getElementById("B").style.visibility="visible";    
+
+}
+
+function hideB()
+{
+    document.getElementById("B").style.visibility="hidden";
+    document.getElementById("A").style.visibility="visible";
+
+}
+</script>
 </head>
 
 <body>
-
+ 
 <div class="flex-container">
 
  <header class="header">
@@ -20,7 +36,11 @@
 </header>
 
   <article class="main">
-<table class="scroll-code"> 
+Media: 
+<input type="radio"  name="aorb" onClick="hideB()" checked>A | 
+<input type="radio"  name="aorb" onClick="hideA()">B
+
+<table id="A" class="scroll-code"> 
      <tr>
         <td class="scroll-td">
             <table class="nested-works">
@@ -189,6 +209,33 @@
         </td>
     </tr>
 </table>
+
+<table id="B" class="scroll-code" visibility:hidden"> 
+     <tr>
+        <td class="scroll-td">
+            <table class="nested-works">
+              <colgroup span="6"></colgroup>
+              <tr>
+                <th>b</th>
+                <th>bbb</th>
+                <th>b</th>
+                <th>bbb</th>
+                <th>b</th>
+                <th>bbb</th>
+              </tr>
+              <tr>
+                <td>bbb</td>
+                <td>bbbb</td>
+                <td>bb</td>
+                <td>b</td>
+                <td>b</td>
+                <td>bbb</td>
+              </tr>
+           </table>
+        </td>
+    </tr>
+</table>
+
   </article>
 
   <aside class="aside aside1">
