@@ -126,6 +126,14 @@ h1 {
     font-size: 1.2em;
 }
 
+h2.white {  
+    color: white;
+}
+
+h2.first {  
+    margin-top: 0;
+}
+
 h3 {  
     font-family: "Times New Roman", Times, serif;
     font-weight: 300;
@@ -208,9 +216,6 @@ a.white:hover {
   text-decoration-skip: ink;
 }
 
-h2.white {  
-    color: white;
-}
 
 mark {
   background-color: yellow;
