@@ -34,7 +34,6 @@ html, body {
 }
 
 .main-text {
-    text-align: left;
     background-color: White;
     border: none;
     padding: 0 1em 0 1em;
@@ -147,6 +146,17 @@ h4 {
     font-weight: 600;
     font-size: .8em;
     margin: 0 0 0 0;
+}
+
+p.werkbeschreibung {  
+    text-align: justify;
+  text-justify: inter-word;
+}
+
+p.mitwirkende { 
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 0.5em;
 }
 
 a.title-link:active {
