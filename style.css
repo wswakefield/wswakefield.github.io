@@ -150,12 +150,12 @@ h4 {
 
 p.werkbeschreibung {  
     text-align: justify;
-  text-justify: inter-word;
+  text-justify: auto;
 }
 
 p.mitwirkende { 
     text-align: justify;
-    text-justify: inter-word;
+    text-justify: auto;
     font-size: 0.5em;
 }
 
