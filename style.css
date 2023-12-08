@@ -275,36 +275,63 @@ mark {
 }
 
 table.alphabet {
-    width: 100%;
+    max-width: 100%;
+  padding: 0px;
 }
 
-table.alphabet2 {
-    width: 100%;
-    padding: 13px;
-}
-
-td.alphabet {
-    border: 0px solid white;
+.alphabet td {
+    border: 1px solid white;
     font-size: 1em; 
-    text-align: left;
-    font-weight: 300;
-    padding: 13px;
+    text-align: center;
+    font-weight: 400;
+    padding: 0px;
 }
 
+.button {
+  border: 0px dotted;
+  color: black;
+  min-width: 2.6em;
+  padding: 13px 13px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1em;
+  margin: 0px 0px;
+  cursor: pointer;
+}
 
-th.alphabet {
+.buttonaktiv {
+  background-color: #555;
+  border: 0px dotted;
+  color: white;
+  min-width: 2.6em;
+  padding: 13px 13px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1em;
+  margin: 0px 0px;
+  cursor: normal;
+}
+
+.buttonaktiv:hover {
+  background-color: #555;
+}
+
+.alphabet th {
     background: Gainsboro;
     border: 0px solid white;
     font-size: 1em; 
-    text-align: left;
+    text-align: center;
     padding: 13px;
     font-weight: 600;
-}
 
 td.werk {
     border: .8px solid white;
     font-size: 1em; 
-    text-align: center;
+    text-align: left;
     font-weight: 300;
     padding: .5em;
 }
