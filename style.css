@@ -104,6 +104,10 @@ footer {
   }
 }
 
+aside {
+    min-height:100%;
+}
+
 .aside1 {
     font-size: 1em;
     background-color: #ffffff;
