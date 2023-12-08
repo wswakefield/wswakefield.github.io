@@ -296,7 +296,7 @@ th {
     border: 0px solid white;
     font-size: 1em; 
     text-align: center;
-    padding: 0.5em;
+    padding: 0em;
     font-weight: 600;
 }
 
@@ -305,7 +305,7 @@ td {
     font-size: 1em; 
     text-align: center;
     font-weight: 300;
-    padding: .5em;
+    padding: em;
 }
 
 .scroll-td {
