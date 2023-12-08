@@ -93,7 +93,7 @@ footer {
     font-size: .8em;
     text-align: left;
     letter-spacing: 0.08em;
-    font-style: italic;
+    font-style:;
     margin-top: 12px;
     margin-bottom: 12px;
 }
@@ -145,7 +145,7 @@ h3 {
     font-weight: 300;
     font-size: 1em;
     margin: 24 24 14 0;
-    font-style: italic;
+    font-style: normal;
 }
 
 h4 {  
