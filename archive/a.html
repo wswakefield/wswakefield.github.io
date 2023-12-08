@@ -18,16 +18,23 @@
     <h3 class="header_sub"><span style="background-color: white">Archive</span></h3>
 </header>
 
-  <article class="main">
+<article class="main">
 <b>A</b> | B | C | D | E | F | G | H | I<br>
 J | <a href="archive/k.html">K</a> | L | M | N | O | P | Q | R<br>
 S | T | U | V | W | X | Y | Z
-	  <div class="main-text">
-a little lot
+	  
+<div class="main-text">
+	
+ <button type="button" class="collapsible">a little lot</button>
+<div class="content">
+  <p>content</p>
+	<audio controls src="">
+ 	 </audio>
+</div> 
 
+	
       
- <audio controls src="">
-  </audio>
+
 
 
  </div> 
@@ -51,6 +58,23 @@ a little lot
   <br>2023
 </footer>
 </div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
 
 </body>
 </html>
