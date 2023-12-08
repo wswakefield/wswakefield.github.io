@@ -93,7 +93,7 @@ footer {
     font-size: .8em;
     text-align: left;
     letter-spacing: 0.08em;
-    font-style:;
+    font-style: normal;
     margin-top: 12px;
     margin-bottom: 12px;
 }
@@ -102,10 +102,6 @@ footer {
   footer {
     min-height:100%;
   }
-}
-
-aside {
-    min-height:100%;
 }
 
 .aside1 {
@@ -149,7 +145,7 @@ h3 {
     font-weight: 300;
     font-size: 1em;
     margin: 24 24 14 0;
-    font-style: normal;
+    font-style: italic;
 }
 
 h4 {  
@@ -206,7 +202,6 @@ a.black:link {
   text-decoration: none;
 }
 
-
 a.black:active {
   color: black;
 }
@@ -237,43 +232,6 @@ a.white:hover {
   text-decoration-skip: ink;
 }
 
-.collapsible {
-  background-color: #777;
-  color: white;
-  cursor: pointer;
-  padding: 0.5em;
-  width: 100%;
-  border: none;
-  text-align: left;
-  font-family: "Times New Roman", Times, serif;
-  outline: none;
-  font-size: 1em;
-}
-
-.active, .collapsible:hover {
-  background-color: #555;
-}
-
-.collapsible:after {
-  content: '\002B';
-  color: white;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\2212";
-}
-
-.content {
-  padding: 0 18px;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
-}
-
 mark {
   background-color: yellow;
 }
@@ -283,7 +241,7 @@ table.alphabet {
   padding: 0px;
 }
 
-.alphabet td {
+td.alphabet {
     border: 1px solid white;
     font-size: 1em; 
     text-align: center;
@@ -324,18 +282,28 @@ table.alphabet {
   background-color: #555;
 }
 
-.alphabet th {
+th.alphabet {
     background: Gainsboro;
     border: 0px solid white;
     font-size: 1em; 
     text-align: center;
     padding: 13px;
     font-weight: 600;
+}
 
-td.werk {
+th {
+    background: Gainsboro;
+    border: 0px solid white;
+    font-size: 1em; 
+    text-align: center;
+    padding: 0.5em;
+    font-weight: 600;
+}
+
+td {
     border: .8px solid white;
     font-size: 1em; 
-    text-align: left;
+    text-align: center;
     font-weight: 300;
     padding: .5em;
 }
